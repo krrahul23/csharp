@@ -13,3 +13,18 @@ E:\CSharp Practise\obj\Debug\net7.0\refint\CSharp Practise.dll
 E:\CSharp Practise\obj\Debug\net7.0\CSharp Practise.pdb
 E:\CSharp Practise\obj\Debug\net7.0\CSharp Practise.genruntimeconfig.cache
 E:\CSharp Practise\obj\Debug\net7.0\ref\CSharp Practise.dll
+E:\CSharp_Practice\bin\Debug\net7.0\CSharp Practise.exe
+E:\CSharp_Practice\bin\Debug\net7.0\CSharp Practise.deps.json
+E:\CSharp_Practice\bin\Debug\net7.0\CSharp Practise.runtimeconfig.json
+E:\CSharp_Practice\bin\Debug\net7.0\CSharp Practise.dll
+E:\CSharp_Practice\bin\Debug\net7.0\CSharp Practise.pdb
+E:\CSharp_Practice\obj\Debug\net7.0\CSharp Practise.csproj.AssemblyReference.cache
+E:\CSharp_Practice\obj\Debug\net7.0\CSharp Practise.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Practice\obj\Debug\net7.0\CSharp Practise.AssemblyInfoInputs.cache
+E:\CSharp_Practice\obj\Debug\net7.0\CSharp Practise.AssemblyInfo.cs
+E:\CSharp_Practice\obj\Debug\net7.0\CSharp Practise.csproj.CoreCompileInputs.cache
+E:\CSharp_Practice\obj\Debug\net7.0\CSharp Practise.dll
+E:\CSharp_Practice\obj\Debug\net7.0\refint\CSharp Practise.dll
+E:\CSharp_Practice\obj\Debug\net7.0\CSharp Practise.pdb
+E:\CSharp_Practice\obj\Debug\net7.0\CSharp Practise.genruntimeconfig.cache
+E:\CSharp_Practice\obj\Debug\net7.0\ref\CSharp Practise.dll
