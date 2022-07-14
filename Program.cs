@@ -8,6 +8,7 @@
             {
                 Console.WriteLine("Github triggering example again jkfjdkf");
                 Console.WriteLine("Github triggering example again");
+                int j = 2;
             }
         }
     }
