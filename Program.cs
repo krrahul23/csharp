@@ -8,10 +8,6 @@
             {
                 Console.WriteLine("Github triggering example again");
             }
-            if (12)
-            {
-                int i = 2;
-            }
         }
     }
 }
