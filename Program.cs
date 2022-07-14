@@ -6,7 +6,7 @@
         {
             for (int i = 0; i < 100; i++)
             {
-                Console.WriteLine("Github triggering example");
+                Console.WriteLine("Github triggering example again");
             }
         }
     }
